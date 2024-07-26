@@ -7,6 +7,9 @@ Update or set up the base [Blueprint Dashboard](https://github.com/jahirfiquitiv
 
 # Usage
 - Install the latest python for your system.
-- Download the script.
-- Run the script.
+- Download a new [sample branch](https://github.com/jahirfiquitiva/Blueprint/archive/sample.zip) of blueprint
+- Extract the folder from the zip.
+- Download the Blueprint Automator Script.
+- Run the script like any other python script. Open command terminal and drag the script into the terminal then press enter.
 - Follow the on-screen instructions.
+- badabing badaboom
