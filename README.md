@@ -15,4 +15,4 @@ Update or set up the base [Blueprint Dashboard](https://github.com/jahirfiquitiv
 - badabing badaboom
 
 ### Disclaimer
-Some of the code was written by ChatGPT, modified by myself. Feel free to make changes to it and create a pull request to improve the automation!
+Some of the code was written with ChatGPT, modified by myself. Feel free to make changes to it and create a pull request to improve the automation!
