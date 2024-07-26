@@ -13,3 +13,6 @@ Update or set up the base [Blueprint Dashboard](https://github.com/jahirfiquitiv
 - Run the script like any other python script. Open command terminal and drag the script into the terminal then press enter.
 - Follow the on-screen instructions.
 - badabing badaboom
+
+### Disclaimer
+Some of the code was written by ChatGPT, modified by myself. Feel free to make changes to it and create a pull request to improve the automation!
